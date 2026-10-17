@@ -5,7 +5,7 @@ An e-commerce company wants 95% of orders delivered on time. In January it was c
 
 The dataset is a case study (sample orders, warehouse process timings, monthly KPIs and stakeholder interviews). Targets in the data are illustrative.
 
-![On time delivery trend]
+[On time delivery trend]
 <img width="849" height="290" alt="image" src="https://github.com/user-attachments/assets/a8ecb86f-fc87-4406-8aca-49e9a810c9fa" />
 
 ## Questions
@@ -36,7 +36,8 @@ The dataset is a case study (sample orders, warehouse process timings, monthly K
 6. Scored capabilities and ran the 7S and Nadler Tushman reviews to explain why the causes were not caught.
 7. Built an action plan with owners, timing and a success measure for each step.
 
-![Fishbone diagram]
+[Fishbone diagram]
+
 <img width="649" height="356" alt="image" src="https://github.com/user-attachments/assets/04a7c9e8-308f-41c0-b1d1-3a54d9c3ca50" />
 
 
@@ -50,11 +51,13 @@ Carrier C is the slowest. It takes 3.6 days in transit against 2.7 for Carrier A
 
 Orders wait too long inside the warehouse. The wait before picking starts averages 24.9 minutes and the queue before dispatch 21.9 minutes, against a 15 minute benchmark. Waiting makes up 56% of total warehouse time and is worst on the evening shift and in Lahore.
 
-![Late rate by carrier and promise days]
+[Late rate by carrier and promise days]
+
 <img width="663" height="247" alt="image" src="https://github.com/user-attachments/assets/4b7df0c1-d569-4d8b-99de-b9fd0b6ced96" />
 
 
-![Pareto of extra late orders]
+[Pareto of extra late orders]
+
 <img width="615" height="276" alt="image" src="https://github.com/user-attachments/assets/f8b60489-a9be-4909-b860-f990d3553112" />
 
 
@@ -70,7 +73,8 @@ Orders wait too long inside the warehouse. The wait before picking starts averag
 
 All ten capabilities are below target. The four with the biggest gaps that stakeholders also rate as high priority are Inventory Visibility, Continuous Improvement, Workforce Planning and Warehouse Operations.
 
-![Capability maturity]
+[Capability maturity]
+
 <img width="571" height="279" alt="image" src="https://github.com/user-attachments/assets/c8ff1ca1-09a5-40b1-8307-7dc2d7630b2f" />
 
 
@@ -92,7 +96,8 @@ The Nadler Tushman review finds low fit between the work and the formal organisa
 
 The gains are planning estimates based on the size of each gap, not measured results.
 
-![Path to 95%]
+[Path to 95%]
+
 <img width="591" height="264" alt="image" src="https://github.com/user-attachments/assets/d088f8ff-e490-4042-a0b3-c77e66fdf41c" />
 
 
